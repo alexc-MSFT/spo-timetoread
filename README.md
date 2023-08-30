@@ -1,4 +1,4 @@
-# SharePoint 'Time to read' solution
+# SharePoint 'Time to read'
 
 | [Solution Overview](https://github.com/alexc-MSFT/spo-timetoread/wiki/Solution-Overview) | [Deployment](https://github.com/alexc-MSFT/spo-timetoread/wiki/Deployment) |
 | ---- | ---- |
