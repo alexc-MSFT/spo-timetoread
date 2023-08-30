@@ -17,7 +17,7 @@ All content on the page is counted when estimating the time to read including We
 
 Begin with the [Solution overview](https://github.com/alexc-MSFT/spo-timetoread/wiki/Solution-Overview) to read more about the solution and how it works. 
 
-When you're ready to try it out, or to use it in your own tenant, follow the [Deployment](https://github.com/alexc-MSFTspo-timetoread/wiki/Deployment) steps. Please note the deployment steps assume a level of technical knowledge and are relatively high level.
+When you're ready to try it out, or to use it in your own tenant, follow the [Deployment](https://github.com/alexc-MSFT/spo-timetoread/wiki/Deployment) steps. Please note the deployment steps assume a level of technical knowledge and are relatively high level.
 
 ## 💖 Contributing 
 
